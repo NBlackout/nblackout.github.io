@@ -41,20 +41,36 @@ tfoot td[b-km8ls46rkq] {
 .account-balance[b-km8ls46rkq] {
     color: #019D78;
 }
-/* /Components/Transactions.razor.rz.scp.css */
-th[b-3qxxjzshad] {
+/* /Components/ExpectedTransactions.razor.rz.scp.css */
+th[b-kd878kobl0] {
     background-color: #EDEDED;
 }
 
-th.transaction-label[b-3qxxjzshad] {
+th.transaction-label[b-kd878kobl0] {
     width: 100%;
 }
 
-td[b-3qxxjzshad] {
+td[b-kd878kobl0] {
     white-space: nowrap;
 }
 
-tfoot td[b-3qxxjzshad] {
+tfoot td[b-kd878kobl0] {
+    border-top: 4px double #DDDDDD;
+}
+/* /Components/TransactionsTable.razor.rz.scp.css */
+th[b-ka7yuknorq] {
+    background-color: #EDEDED;
+}
+
+th.transaction-label[b-ka7yuknorq] {
+    width: 100%;
+}
+
+td[b-ka7yuknorq] {
+    white-space: nowrap;
+}
+
+tfoot td[b-ka7yuknorq] {
     border-top: 4px double #DDDDDD;
 }
 /* /Pages/Accounts.razor.rz.scp.css */
