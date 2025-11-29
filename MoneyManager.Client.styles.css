@@ -139,8 +139,10 @@ tfoot td[b-ka7yuknorq] {
     background: none;
 }
 /* /Pages/Categories.razor.rz.scp.css */
-.list-group-item[b-mkrzpkx6kw] {
-    background: none;
+.card-title[b-mkrzpkx6kw] {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 /* /Pages/CategorizationRules.razor.rz.scp.css */
 .list-group-item[b-02hfs2c0r1] {
