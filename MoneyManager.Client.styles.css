@@ -58,16 +58,12 @@ tfoot td[b-kd878kobl0] {
     border-top: 4px double #DDDDDD;
 }
 /* /Components/TransactionsTable.razor.rz.scp.css */
-th[b-ka7yuknorq] {
-    background-color: #EDEDED;
-}
-
-th.transaction-label[b-ka7yuknorq] {
-    width: 100%;
-}
-
 td[b-ka7yuknorq] {
     white-space: nowrap;
+
+    &.transaction-label {
+        width: 100%;
+    }
 }
 
 tfoot td[b-ka7yuknorq] {
