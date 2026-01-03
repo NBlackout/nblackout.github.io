@@ -4,22 +4,6 @@ hr[b-km8ls46rkq] {
     opacity: 1;
 }
 
-th[b-km8ls46rkq] {
-    background-color: #EDEDED;
-}
-
-th.transaction-label[b-km8ls46rkq] {
-    width: 100%;
-}
-
-td[b-km8ls46rkq] {
-    white-space: nowrap;
-}
-
-tfoot td[b-km8ls46rkq] {
-    border-top: 4px double #DDDDDD;
-}
-
 .account-activity[b-km8ls46rkq] {
     background-color: #FFFFFF;
     border: 2px solid #E7E7E7;
