@@ -45,8 +45,8 @@ tfoot td[b-kd878kobl0] {
 td[b-ka7yuknorq] {
     white-space: nowrap;
 
-    &.transaction-label {
-        width: 100%;
+    .transaction-label {
+        cursor: text;
     }
 }
 
