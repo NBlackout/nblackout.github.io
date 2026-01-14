@@ -41,14 +41,6 @@ td[b-kd878kobl0] {
 tfoot td[b-kd878kobl0] {
     border-top: 4px double #DDDDDD;
 }
-/* /Components/TransactionsTable.razor.rz.scp.css */
-td[b-ka7yuknorq] {
-    white-space: nowrap;
-
-    .transaction-label {
-        cursor: text;
-    }
-}
 /* /Pages/Accounts.razor.rz.scp.css */
 .list-group[b-b0f8punu9c] {
     margin-right: -2px;
